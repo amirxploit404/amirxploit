@@ -1,5 +1,14 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">   
+# Selamat datang di profil saya!
 
+Saya aktif berbagi proyek terkait teknologi dan data science.  
+Kunjungi situs saya untuk belajar lebih dalam tentang Data Science dan AI:  
+🌐 [NetworkedIndia.com](https://networkedindia.com/)  
+
+Jangan lupa cek juga sumber belajar dan tutorial lengkap di:  
+🌐 [EnhanceDataScience.com](https://enhancedatascience.com/)  
+
+Terima kasih sudah mampir dan selamat belajar! 🚀
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amirxploit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/abdurahmanamirr?t=-D1WO0sHuPvPFoW9Eg32Pg&s=01)
 # 💻Tech Stack
@@ -8,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AMIRXPLOID&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AMIRXPLOID&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRXPLOID&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ![hacker-hack](https://user-images.githubusercontent.com/104670398/167457647-bce84fb2-e219-49f2-8246-09fec32de68e.gif)
 <p align="center">
